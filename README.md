@@ -89,7 +89,7 @@ After the data is inserted, various SQL queries can be written to explore and an
 - **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
 
 ## How to Run the Project
-1. Install PostgreSQL and pgAdmin (if not already installed).
+1. Install SQL Workbench (if not already installed).
 2. Set up the database schema and tables using the provided normalization structure.
 3. Insert the sample data into the respective tables.
 4. Execute SQL queries to solve the listed problems.
