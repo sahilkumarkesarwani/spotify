@@ -84,7 +84,7 @@ After the data is inserted, various SQL queries can be written to explore and an
 
 
 ## Technology Stack
-- **Database**: PostgreSQL
+- **Database**: MySQL
 - **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
 - **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
 
